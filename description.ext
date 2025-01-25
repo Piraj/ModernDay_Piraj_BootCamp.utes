@@ -1,1 +1,7 @@
 respawnOnStart = -1;
+class Header
+{
+	gameType = "Zeus";	// Game type
+	minPlayers =  1;	// minimum number of players the mission supports
+	maxPlayers = 20;	// maximum number of players the mission supports
+};
